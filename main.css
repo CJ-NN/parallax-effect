@@ -1,0 +1,16 @@
+@import url('https://fonts.font.im/css?family=Montserrat:700');
+html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background: #1f1f1f;
+    font-family: 'Montserrat', sans-serif;
+    color: #e2ebf0;
+    font-size: 400px;
+}
